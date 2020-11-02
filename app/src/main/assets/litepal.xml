@@ -1,0 +1,10 @@
+<litepal>
+    <dbname value="sample" />
+    <version value="1" />
+    <list>
+        <mapping
+            class = "com.raofa.coroutinessample.data.model.place.Province">
+        </mapping>
+    </list>
+    <storage value="external" />
+</litepal>
