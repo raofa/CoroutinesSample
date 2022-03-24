@@ -23,6 +23,20 @@ class SampleApp : Application() {
 
     private fun mainTest(){
         //by main
+        //test
     }
     
+
+    private fun test(){
+
+    }
+
+    private fun rebaseTest1(){
+
+    }
+
+    private fun rebaseTest2(){
+
+    }
+
 }
