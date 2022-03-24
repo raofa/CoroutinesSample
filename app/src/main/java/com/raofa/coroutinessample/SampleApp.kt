@@ -21,6 +21,11 @@ class SampleApp : Application() {
         const val TOKEN = "zVtEh5YYSqkYHgLq"
     }
 
+    private fun mainTest(){
+
+    }
+
+
     private fun mergeTest(){
 
     }
