@@ -25,4 +25,8 @@ class SampleApp : Application() {
 
     }
     
+
+    private fun test(){
+
+    }
 }
