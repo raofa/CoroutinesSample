@@ -29,4 +29,9 @@ class SampleApp : Application() {
     private fun test(){
 
     }
+
+    private fun rebaseTest1(){
+
+    }
+
 }
