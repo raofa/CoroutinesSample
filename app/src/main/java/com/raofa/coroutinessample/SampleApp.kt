@@ -23,6 +23,7 @@ class SampleApp : Application() {
 
     private fun mainTest(){
         //by main
+        //test
     }
     
 
