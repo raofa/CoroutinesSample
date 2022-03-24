@@ -20,5 +20,9 @@ class SampleApp : Application() {
         lateinit var mContext : Context
         const val TOKEN = "zVtEh5YYSqkYHgLq"
     }
+
+    private fun mainTest(){
+
+    }
     
 }
